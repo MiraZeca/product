@@ -1,0 +1,94 @@
+.useredit {
+    margin-top: 50px;
+}
+
+.input-field>label {
+    position: static;
+}
+
+.btnedit {
+    background-color: #ffa500;
+}
+
+.btndelete {
+    background-color: #ff0000;
+}
+
+
+nav {
+    background-color: grey;
+}
+
+.small {
+    font-size: 1rem;
+}
+
+.btnadd, .btnsave {
+    margin-bottom: 50px;
+}
+
+html, body {
+    height: 100%;  
+    margin: 0;     
+    display: flex;
+    flex-direction: column;
+}
+
+footer.page-footer {
+    margin-top: auto; 
+    background-color: grey;
+    color: #ffc107;
+}
+
+.brand-logo:hover {
+    background-color: rgb(0, 0, 0, 0.1);
+}
+
+div.row {
+    margin-bottom: 0;
+}
+
+nav ul a, a.brand-logo, a.sidenav-trigger {
+    color: #ffc107;
+}
+
+.sidenav {
+    background-color: #ffc107;
+}
+
+.addbutton{
+    display: flex;
+    float: left;
+    background-color: grey;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.addbutton {
+    margin-right: 20px;
+}
+
+.addbutton:hover{
+    background-color: #ffc107;
+}
+button.addbutton.btn a {
+    color: #ffc107;
+}
+
+button.addbutton.btn a:hover{
+    color: gray;
+}
+.input-field>label {
+    position: relative;
+}
+
+.backbtn {
+    margin: 50px auto;
+}
+
+.btnadmin {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
