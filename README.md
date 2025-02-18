@@ -11,8 +11,8 @@ Za pokretanje ove aplikacije potrebno je da izvršite sledeće komande u termina
     DB_DATABASE=product
     DB_USERNAME=root
     DB_PASSWORD=
-7. php artisan migrate
-8. php artisan db:seed
-9. php artisan storage:link
-10. php artisan serve
-11. I naravno, potrebno je da imate instaliran XAMPP da bi se pokrenule migracije. Ako XAMPP nije instaliran, uradite to kao prvo, a zatim sve ove korake redom.
+8. php artisan migrate
+9. php artisan db:seed
+10. php artisan storage:link
+11. php artisan serve
+12. I naravno, potrebno je da imate instaliran XAMPP da bi se pokrenule migracije. Ako XAMPP nije instaliran, uradite to kao prvo, a zatim sve ove korake redom.
